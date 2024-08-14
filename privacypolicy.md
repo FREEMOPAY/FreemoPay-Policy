@@ -1,46 +1,67 @@
-Privacy Policy  
-----------------
+Politique de Confidentialité 
+1. Introduction
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at Freemo, how FreemoPay uses it, and what choices you have.
-Freemo built the FreemoPay app as a free app. This SERVICE is provided by Freemo at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+   
+Bienvenue sur notre application freemoPay. Nous attachons une grande importance à la 
+confidentialité et à la sécurité de vos données personnelles. Cette politique de confidentialité 
+explique comment nous recueillons, utilisons, stockons et protégeons vos informations 
+lorsque vous utilisez notre application. 
+3. Collecte des Données 
+Nous collectons différents types de données personnelles afin de fournir et d'améliorer nos 
+services. Les types de données que nous collectons incluent : - Informations d'identification : nom, numéro de téléphone et les contacts des utilisateurs. - Données techniques : adresse IP, type de navigateur, système d'exploitation, données de 
+localisation. - Données comportementales : interactions avec l'application, préférences et habitudes 
+d'utilisation. 
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+4. Utilisation des Données 
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+Les données collectées sont utilisées pour : - Fournir et maintenir notre service. - Traiter les transactions et gérer les comptes utilisateurs. - Améliorer nos services et personnaliser l'expérience utilisateur. - Assurer la sécurité de nos utilisateurs et prévenir la fraude. - Se conformer aux obligations légales et réglementaires. 
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+5. Partage des Données 
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+Nous ne vendons pas, n'échangeons pas et ne louons pas vos informations personnelles à des 
+tiers. Cependant, nous pouvons partager vos données avec : - Fournisseurs de services : qui nous aident à fournir nos services (par exemple, services de 
+paiement, services cloud). - Autorités légales : si requis par la loi ou pour répondre à des procédures judiciaires. - Partenaires commerciaux : avec votre consentement explicite pour des offres conjointes ou 
+des services complémentaires. 
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+6. Sécurité des Données 
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+Nous mettons en place des mesures de sécurité techniques et organisationnelles pour protéger 
+vos données contre l'accès non autorisé, la divulgation, l'altération ou la destruction. Cela 
+inclut : - Cryptage des données en transit et au repos. - Contrôles d'accès stricts et audits de sécurité réguliers. - Formation continue de notre personnel en matière de protection des données.
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+ 
+7. Conservation des Données 
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email:contact@freemopay.com 
+Nous conservons vos données personnelles aussi longtemps que nécessaire pour atteindre les 
+objectifs décrits dans cette politique, sauf si une période de conservation plus longue est 
+requise ou permise par la loi. Une fois que vos données ne sont plus nécessaires, nous les 
+supprimerons de manière sécurisée. 
+
+
+8. Vos Droits 
+
+Vous avez le droit de : - Accéder à vos données personnelles et obtenir une copie. 
+- Rectifier les données inexactes ou incomplètes. - Demander la suppression de vos données. - Limiter le traitement de vos données. - Vous opposer au traitement de vos données pour des raisons légitimes. - Demander la portabilité de vos données à un autre fournisseur de services. 
+Pour exercer ces droits, veuillez nous contacter à contact@freemopay.com. 
+
+
+8. Modifications de la Politique de Confidentialité 
+
+Nous pouvons mettre à jour cette politique de confidentialité de temps en temps pour refléter 
+les changements dans nos pratiques ou pour des raisons légales. Nous vous informerons de 
+toute modification en publiant la nouvelle politique sur notre application et en modifiant la 
+date de "Dernière mise à jour" ci-dessus. 
+
+
+9. Contact 
+
+Si vous avez des questions ou des préoccupations concernant cette politique de confidentialité 
+ou notre traitement de vos données, veuillez nous contacter à : 
+Freemo SOLUTIONS SARL 
+Yaounde, Efoulan 
++237 657 87 08 73 
+contact@freemopay.com 
+Dernière mise à jour : 12/08/2024 
