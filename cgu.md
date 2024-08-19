@@ -1,4 +1,4 @@
-##CONDITIONS GÉNÉRALES D’UTILISATION DE FreemoPay 1
+CONDITIONS GÉNÉRALES D’UTILISATION DE FreemoPay
 
 Conditions et termes 
 
