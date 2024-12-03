@@ -12,6 +12,18 @@ services. Les types de données que nous collectons incluent : - Informations d'
 localisation. - Données comportementales : interactions avec l'application, préférences et habitudes 
 d'utilisation. 
 
+Freemopay collecte et utilise vos données personnelles
+
+Autorisation d'utiliser vos données personnelles
+
+Nous collectons et utilisons certaines données personnelles pour offrir une expérience optimale dans notre application. Voici les informations que nous collectons et pourquoi :
+•	Nom et prénom : Pour personnaliser votre profil et faciliter les interactions.
+•	Numéro de téléphone : Pour sécuriser votre compte et permettre la communication.
+•	Contacts : Pour synchroniser et suggérer des amis ou connexions.
+•	Numéro de CNI : Pour vérifier votre identité conformément à la réglementation locale.
+Ces données sont utilisées uniquement pour les fonctionnalités mentionnées et ne seront jamais partagées avec des tiers sans votre consentement.
+
+
 4. Utilisation des Données 
 
 
